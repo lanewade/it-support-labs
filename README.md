@@ -18,6 +18,8 @@ The focus of this project is practical troubleshooting, clear documentation, and
 * Account and access troubleshooting
 * Printer troubleshooting
 * Network troubleshooting
+* DNS and DHCP troubleshooting
+* Network cabling concepts
 * Ticket-style documentation
 * Hardware and software support concepts
 * Clear written technical documentation
@@ -98,6 +100,48 @@ Documents Windows network troubleshooting using commands like `ipconfig`, `ping`
 ### Ticket Documentation Examples
 
 Provides beginner ticket-style examples for password resets, printer issues, network connectivity issues, and Microsoft 365 access problems.
+
+### Network Cabling Basics
+
+Documents basic Ethernet cabling concepts, structured cabling, cable categories, patch panels, patch cords, T568A/T568B standards, common tools, and cabling issues.
+
+### Slow Computer Troubleshooting
+
+Documents a basic Windows troubleshooting process for slow computer issues, including Task Manager, startup apps, disk space, Windows updates, malware checks, and escalation criteria.
+
+### DNS Troubleshooting
+
+Documents basic DNS troubleshooting steps, including testing IP connectivity, using `nslookup`, flushing DNS cache, and identifying name resolution issues.
+
+### DHCP Troubleshooting
+
+Documents basic DHCP troubleshooting steps, including checking IP configuration, identifying APIPA addresses, and using `ipconfig /release` and `ipconfig /renew`.
+
+## Ticket Examples Included
+
+### Network Connectivity Ticket Example
+
+Provides a ticket-style example for troubleshooting a user who cannot connect to the network.
+
+### Microsoft 365 Login Ticket Example
+
+Provides a ticket-style example for a user who cannot sign in to Microsoft 365 services.
+
+### Printer Offline Ticket Example
+
+Provides a ticket-style example for troubleshooting a printer that shows as offline.
+
+### Slow Computer Ticket Example
+
+Provides a ticket-style example for a user reporting slow Windows computer performance.
+
+### DNS Troubleshooting Ticket Example
+
+Provides a ticket-style example for a user who has network connectivity but cannot access websites by name.
+
+### DHCP Troubleshooting Ticket Example
+
+Provides a ticket-style example for a user whose workstation did not receive a valid IP address from DHCP.
 
 ## Planned Additions
 
