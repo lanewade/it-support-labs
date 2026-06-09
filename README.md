@@ -43,16 +43,22 @@ The focus of this project is practical troubleshooting, clear documentation, and
 ```text
 it-support-labs/
 ├── README.md
-└── notes/
-    ├── windows-troubleshooting-checklist.md
-    ├── command-prompt-tools.md
-    ├── powershell-basics.md
-    ├── microsoft-365-support-concepts.md
-    ├── account-access-troubleshooting.md
-    ├── printer-troubleshooting.md
-    ├── windows-network-troubleshooting.md
-    └── ticket-documentation-examples.md
+├── notes/
+│   ├── windows-troubleshooting-checklist.md
+│   ├── command-prompt-tools.md
+│   ├── powershell-basics.md
+│   ├── microsoft-365-support-concepts.md
+│   ├── account-access-troubleshooting.md
+│   ├── printer-troubleshooting.md
+│   ├── windows-network-troubleshooting.md
+│   ├── ticket-documentation-examples.md
+│   └── network-cabling-basics.md
+└── tickets/
+    ├── network-connectivity-ticket-example.md
+    ├── microsoft-365-login-ticket-example.md
+    └── printer-offline-ticket-example.md
 ```
+
 
 ## Notes Included
 
@@ -92,10 +98,11 @@ Provides beginner ticket-style examples for password resets, printer issues, net
 
 I plan to continue adding notes and labs related to:
 
-* Network+ cabling concepts
 * DNS and DHCP troubleshooting
 * Wi-Fi troubleshooting
 * VPN troubleshooting
+* Windows update issues
+* Slow computer troubleshooting
 * Microsoft 365 support scenarios
 * Printer and print spooler issues
 * Ticket escalation examples
