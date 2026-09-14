@@ -1,6 +1,4 @@
-# OneDrive Sync Ticket Example
-
-This is a practice help desk ticket documenting a Microsoft OneDrive synchronization issue involving account verification, sync status, storage checks, file-path review, OneDrive reset, and verification.
+# OneDrive Sync Ticket
 
 ## Ticket Summary
 
