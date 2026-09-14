@@ -98,6 +98,10 @@ Documents Windows 10/11 startup and crash troubleshooting involving WinRE, Start
 
 Documents Windows storage troubleshooting involving SSDs, HDDs, Disk Management, drive detection, partitions, drive letters, file systems, SMART health, CHKDSK, Event Viewer, disk performance, BitLocker considerations, data protection, and drive-failure escalation.
 
+### [Software Installation & Removal Troubleshooting](notes/software-installation-removal-troubleshooting.md)
+
+Documents Windows software troubleshooting involving application installation, removal, permissions, compatibility, dependencies, Windows Installer, EXE/MSI packages, security software, licensing, repair/reinstall workflows, Event Viewer, Reliability Monitor, and escalation.
+
 ### [Command Prompt Tools](notes/command-prompt-tools.md)
 
 Documents common Windows command-line tools used for connectivity testing, DNS troubleshooting, system checks, and support documentation.
@@ -225,6 +229,7 @@ it-support-labs/
 │   ├── powershell-basics.md
 │   ├── printer-troubleshooting.md
 │   ├── slow-computer-troubleshooting.md
+│   ├── software-installation-removal-troubleshooting.md
 │   ├── storage-drive-troubleshooting.md
 │   ├── ticket-documentation-examples.md
 │   ├── wi-fi-troubleshooting.md
@@ -246,7 +251,6 @@ it-support-labs/
 
 As I continue practicing IT support, I plan to expand this repository with additional work in areas such as:
 
-- Software installation and removal issues
 - Device and driver troubleshooting
 - Outlook troubleshooting
 - OneDrive synchronization troubleshooting
