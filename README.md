@@ -134,6 +134,10 @@ Documents account and access troubleshooting involving password resets, lockouts
 
 Documents IT support escalation involving technical scope, business impact, SLAs, security concerns, infrastructure issues, permission boundaries, troubleshooting evidence, user communication, and clear handoff documentation.
 
+### [Help Desk & Desktop Support Scenarios](notes/help-desk-desktop-support-scenarios.md)
+
+Documents practical help desk and desktop support scenarios involving Windows workstations, monitors, docking stations, peripherals, audio and video devices, applications, browsers, user profiles, performance, connectivity, hardware troubleshooting, user communication, verification, and escalation.
+
 ### [Command Prompt Tools](notes/command-prompt-tools.md)
 
 Documents common Windows command-line tools used for connectivity testing, DNS troubleshooting, system checks, and support documentation.
@@ -258,6 +262,7 @@ it-support-labs/
 │   ├── device-driver-troubleshooting.md
 │   ├── dhcp-troubleshooting.md
 │   ├── dns-troubleshooting.md
+│   ├── help-desk-desktop-support-scenarios.md
 │   ├── microsoft-365-support-concepts.md
 │   ├── microsoft-teams-audio-video-troubleshooting.md
 │   ├── network-cabling-basics.md
@@ -286,14 +291,6 @@ it-support-labs/
     ├── slow-computer-ticket-example.md
     └── wi-fi-troubleshooting-ticket-example.md
 ```
-
-## Areas to Continue Building
-
-As I continue practicing IT support, I plan to expand this repository with additional work in areas such as:
-
-- Additional help desk and desktop support scenarios
-
-New documentation will be added as I study and practice these topics.
 
 ## Current Focus
 
