@@ -1,6 +1,4 @@
-# Windows Startup & BSOD Ticket Example
-
-This is a practice help desk ticket documenting a Windows startup and Blue Screen of Death (BSOD) issue involving Safe Mode, recent driver changes, Device Manager, driver rollback, Event Viewer, Reliability Monitor, and verification.
+# Windows Startup & BSOD Ticket
 
 ## Ticket Summary
 
