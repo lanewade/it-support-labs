@@ -1,6 +1,4 @@
-# Windows Update Troubleshooting Ticket Example
-
-This is a practice help desk ticket documenting a common Windows Update issue and the troubleshooting process used to resolve it.
+# Windows Update Troubleshooting Ticket
 
 ## Ticket Summary
 
