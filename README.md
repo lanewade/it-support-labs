@@ -220,6 +220,10 @@ Provides a ticket-style example for a user who cannot connect to Wi-Fi or experi
 
 Practice help desk ticket documenting a Windows Update failure, service checks, SFC and DISM repairs, restart, verification, and final resolution.
 
+### [Shared Folder Access Ticket Example](tickets/shared-folder-access-ticket-example.md)
+
+Practice help desk ticket documenting a shared-folder access issue involving UNC paths, SMB connectivity, DNS verification, group membership, authorization, least privilege, verification, and escalation.
+
 ## Troubleshooting Approach
 
 When working through an IT support issue, I use a structured process:
@@ -292,6 +296,7 @@ it-support-labs/
     ├── microsoft-365-login-ticket-example.md
     ├── network-connectivity-ticket-example.md
     ├── printer-offline-ticket-example.md
+    ├── shared-folder-access-ticket-example.md
     ├── slow-computer-ticket-example.md
     ├── wi-fi-troubleshooting-ticket-example.md
     └── windows-update-ticket-example.md
