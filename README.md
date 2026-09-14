@@ -122,6 +122,10 @@ Documents Microsoft Teams troubleshooting involving microphones, speakers, camer
 
 Documents Windows printing troubleshooting involving print queues, the Print Spooler service, printer drivers, local and network printers, printer ports, print servers, shared printers, permissions, Event Viewer, connectivity, and escalation.
 
+### [Shared Folder & File Access Troubleshooting](notes/shared-folder-file-access-troubleshooting.md)
+
+Documents Windows shared-folder troubleshooting involving UNC paths, mapped drives, SMB, share and NTFS permissions, group membership, Credential Manager, VPN access, DNS, file locking, access requests, least privilege, and escalation.
+
 ### [Command Prompt Tools](notes/command-prompt-tools.md)
 
 Documents common Windows command-line tools used for connectivity testing, DNS troubleshooting, system checks, and support documentation.
@@ -253,6 +257,7 @@ it-support-labs/
 │   ├── powershell-basics.md
 │   ├── print-spooler-printer-driver-troubleshooting.md
 │   ├── printer-troubleshooting.md
+│   ├── shared-folder-file-access-troubleshooting.md
 │   ├── slow-computer-troubleshooting.md
 │   ├── software-installation-removal-troubleshooting.md
 │   ├── storage-drive-troubleshooting.md
@@ -276,7 +281,6 @@ it-support-labs/
 
 As I continue practicing IT support, I plan to expand this repository with additional work in areas such as:
 
-- Shared folder and file-access troubleshooting
 - Additional account and permission scenarios
 - Ticket escalation examples
 - Additional help desk and desktop support scenarios
