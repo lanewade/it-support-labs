@@ -130,6 +130,10 @@ Documents Windows shared-folder troubleshooting involving UNC paths, mapped driv
 
 Documents account and access troubleshooting involving password resets, lockouts, MFA, authentication vs authorization, group membership, least privilege, onboarding, role changes, offboarding, licensing, administrator access requests, and permission escalation.
 
+### [Ticket Escalation Examples](notes/ticket-escalation-examples.md)
+
+Documents IT support escalation involving technical scope, business impact, SLAs, security concerns, infrastructure issues, permission boundaries, troubleshooting evidence, user communication, and clear handoff documentation.
+
 ### [Command Prompt Tools](notes/command-prompt-tools.md)
 
 Documents common Windows command-line tools used for connectivity testing, DNS troubleshooting, system checks, and support documentation.
@@ -267,6 +271,7 @@ it-support-labs/
 │   ├── software-installation-removal-troubleshooting.md
 │   ├── storage-drive-troubleshooting.md
 │   ├── ticket-documentation-examples.md
+│   ├── ticket-escalation-examples.md
 │   ├── wi-fi-troubleshooting.md
 │   ├── windows-network-troubleshooting.md
 │   ├── windows-startup-crash-troubleshooting.md
@@ -286,7 +291,6 @@ it-support-labs/
 
 As I continue practicing IT support, I plan to expand this repository with additional work in areas such as:
 
-- Ticket escalation examples
 - Additional help desk and desktop support scenarios
 
 New documentation will be added as I study and practice these topics.
