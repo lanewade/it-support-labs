@@ -1,6 +1,4 @@
-# Shared Folder Access Ticket Example
-
-This is a practice help desk ticket documenting a Windows shared-folder access issue involving permissions, group membership, UNC paths, and verification.
+# Shared Folder Access Ticket
 
 ## Ticket Summary
 
