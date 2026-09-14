@@ -90,6 +90,10 @@ Documents a structured Windows 10/11 troubleshooting process for common desktop 
 
 Documents Windows 10/11 update troubleshooting involving connectivity, disk space, Windows Update and BITS services, update history, error codes, Event Viewer, SFC, DISM, update components, verification, and escalation.
 
+### [Windows Startup & Crash Troubleshooting](notes/windows-startup-crash-troubleshooting.md)
+
+Documents Windows 10/11 startup and crash troubleshooting involving WinRE, Startup Repair, Safe Mode, BSOD stop codes, drivers, Device Manager, Event Viewer, Reliability Monitor, SFC, DISM, storage and memory diagnostics, BitLocker considerations, recovery options, and escalation.
+
 ### [Command Prompt Tools](notes/command-prompt-tools.md)
 
 Documents common Windows command-line tools used for connectivity testing, DNS troubleshooting, system checks, and support documentation.
@@ -220,6 +224,7 @@ it-support-labs/
 │   ├── ticket-documentation-examples.md
 │   ├── wi-fi-troubleshooting.md
 │   ├── windows-network-troubleshooting.md
+│   ├── windows-startup-crash-troubleshooting.md
 │   ├── windows-troubleshooting-checklist.md
 │   └── windows-update-troubleshooting.md
 └── tickets/
@@ -236,7 +241,6 @@ it-support-labs/
 
 As I continue practicing IT support, I plan to expand this repository with additional work in areas such as:
 
-- Windows startup and crash troubleshooting
 - Storage and drive troubleshooting
 - Software installation and removal issues
 - Device and driver troubleshooting
