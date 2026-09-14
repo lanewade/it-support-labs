@@ -110,6 +110,10 @@ Documents Windows device and driver troubleshooting involving Device Manager, ha
 
 Documents Microsoft Outlook troubleshooting involving connectivity, sign-in, MFA, Outlook profiles, cached data, OST/PST files, add-ins, shared mailboxes, search, mailbox synchronization, Office repair, Event Viewer, Reliability Monitor, licensing, and escalation.
 
+### [OneDrive Synchronization Troubleshooting](notes/onedrive-sync-troubleshooting.md)
+
+Documents OneDrive troubleshooting involving sign-in, synchronization status, Files On-Demand, local and cloud storage limits, file naming and path issues, permissions, sync conflicts, shared files, account re-linking, reset procedures, Microsoft 365 service issues, and escalation.
+
 ### [Command Prompt Tools](notes/command-prompt-tools.md)
 
 Documents common Windows command-line tools used for connectivity testing, DNS troubleshooting, system checks, and support documentation.
@@ -235,6 +239,7 @@ it-support-labs/
 │   ├── dns-troubleshooting.md
 │   ├── microsoft-365-support-concepts.md
 │   ├── network-cabling-basics.md
+│   ├── onedrive-sync-troubleshooting.md
 │   ├── outlook-troubleshooting.md
 │   ├── powershell-basics.md
 │   ├── printer-troubleshooting.md
@@ -261,7 +266,6 @@ it-support-labs/
 
 As I continue practicing IT support, I plan to expand this repository with additional work in areas such as:
 
-- OneDrive synchronization troubleshooting
 - Microsoft Teams audio and video troubleshooting
 - Print Spooler and printer driver troubleshooting
 - Shared folder and file-access troubleshooting
