@@ -188,6 +188,10 @@ Documents examples of clear help desk ticket notes, troubleshooting steps, resol
 
 ## Ticket Examples
 
+### [Microsoft Teams Audio & Video Ticket Example](tickets/microsoft-teams-audio-video-ticket-example.md)
+
+Practice help desk ticket documenting a Microsoft Teams microphone and camera issue involving device selection, Windows privacy permissions, hardware isolation, application troubleshooting, verification, and escalation.
+
 ### [Network Connectivity Ticket Example](tickets/network-connectivity-ticket-example.md)
 
 Provides a ticket-style example for troubleshooting a user who cannot connect to the network.
@@ -298,6 +302,7 @@ it-support-labs/
     ├── dhcp-troubleshooting-ticket-example.md
     ├── dns-troubleshooting-ticket-example.md
     ├── microsoft-365-login-ticket-example.md
+    ├── microsoft-teams-audio-video-ticket-example.md
     ├── network-connectivity-ticket-example.md
     ├── outlook-troubleshooting-ticket-example.md
     ├── printer-offline-ticket-example.md
