@@ -1,6 +1,4 @@
-# Microsoft Teams Audio & Video Ticket Example
-
-This is a practice help desk ticket documenting a Microsoft Teams meeting issue involving microphone and camera troubleshooting, Windows privacy permissions, device selection, driver checks, and verification.
+# Microsoft Teams Audio & Video Ticket
 
 ## Ticket Summary
 
