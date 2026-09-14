@@ -118,6 +118,10 @@ Documents OneDrive troubleshooting involving sign-in, synchronization status, Fi
 
 Documents Microsoft Teams troubleshooting involving microphones, speakers, cameras, Bluetooth headsets, device selection, Windows privacy permissions, drivers, docking stations, network performance, VPNs, Teams web testing, Microsoft 365 service issues, and escalation.
 
+### [Print Spooler & Printer Driver Troubleshooting](notes/print-spooler-printer-driver-troubleshooting.md)
+
+Documents Windows printing troubleshooting involving print queues, the Print Spooler service, printer drivers, local and network printers, printer ports, print servers, shared printers, permissions, Event Viewer, connectivity, and escalation.
+
 ### [Command Prompt Tools](notes/command-prompt-tools.md)
 
 Documents common Windows command-line tools used for connectivity testing, DNS troubleshooting, system checks, and support documentation.
@@ -247,6 +251,7 @@ it-support-labs/
 │   ├── onedrive-sync-troubleshooting.md
 │   ├── outlook-troubleshooting.md
 │   ├── powershell-basics.md
+│   ├── print-spooler-printer-driver-troubleshooting.md
 │   ├── printer-troubleshooting.md
 │   ├── slow-computer-troubleshooting.md
 │   ├── software-installation-removal-troubleshooting.md
@@ -271,7 +276,6 @@ it-support-labs/
 
 As I continue practicing IT support, I plan to expand this repository with additional work in areas such as:
 
-- Print Spooler and printer driver troubleshooting
 - Shared folder and file-access troubleshooting
 - Additional account and permission scenarios
 - Ticket escalation examples
