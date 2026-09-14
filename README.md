@@ -1,35 +1,58 @@
 # IT Support Labs
 
-This repository documents my IT support, networking, and troubleshooting labs across Windows 10/11, Microsoft 365, networking, command-line tools, PowerShell, account access, printers, DNS, DHCP, Wi-Fi, and technical documentation.
+This repository documents my practical IT support, help desk, desktop support, and troubleshooting work across Windows 10/11, Microsoft 365, user accounts, printers, networking, command-line tools, PowerShell, and technical documentation.
 
-## About This Project
+The focus of this repository is supporting end users, diagnosing common workstation and application issues, following structured troubleshooting methods, and documenting technical work clearly.
 
-I created this repository to document practical IT support, networking, and troubleshooting exercises as I continue building my technical skills and experience.
+## About This Repository
 
-The focus of this project is structured troubleshooting, clear technical documentation, and realistic support scenarios across desktop support, networking, Microsoft 365, and system administration.
+I created this repository to organize IT support concepts, troubleshooting exercises, technical notes, and ticket-style scenarios I have studied and practiced.
 
-As a CompTIA A+ and Network+ certified professional currently pursuing Security+, I plan to continue expanding this repository with networking, systems, and security-focused labs and documentation.
+The work documented here focuses on areas commonly encountered in help desk and desktop support environments, including:
+
+- Windows 10/11 troubleshooting
+- Hardware and software support
+- User account and access issues
+- Microsoft 365 support
+- Outlook, Teams, OneDrive, and SharePoint concepts
+- Printer troubleshooting
+- Slow computer troubleshooting
+- Basic network connectivity
+- DNS and DHCP troubleshooting
+- Wi-Fi troubleshooting
+- Command Prompt and PowerShell
+- Ticket documentation
+- Troubleshooting methodology
+- Escalation and technical documentation
+
+Networking is included where it directly supports end-user troubleshooting. More advanced networking and network security work is documented separately in my Networking & Network Security Labs repository.
 
 ## Skills Practiced
 
 - Windows 10/11 troubleshooting
 - Desktop support workflows
+- Help desk troubleshooting
+- Hardware and software support
+- Account and access troubleshooting
+- Password and login troubleshooting
+- Microsoft 365 support concepts
+- Printer troubleshooting
+- Slow computer troubleshooting
+- Network connectivity troubleshooting
+- TCP/IP troubleshooting
+- DNS troubleshooting
+- DHCP troubleshooting
+- Wi-Fi troubleshooting
+- Basic network cabling
 - Command-line diagnostics
 - PowerShell
-- Microsoft 365 support
-- Account and access troubleshooting
-- Printer troubleshooting
-- Network troubleshooting
-- TCP/IP troubleshooting
-- DNS and DHCP troubleshooting
-- Wi-Fi troubleshooting
-- Network cabling
-- Hardware and software support
 - Ticket documentation
 - Technical documentation
 - Structured troubleshooting methodology
+- Escalation concepts
+- End-user communication
 
-## Tools and Topics
+## Tools & Technologies
 
 - Windows 10/11
 - Command Prompt
@@ -48,159 +71,196 @@ As a CompTIA A+ and Network+ certified professional currently pursuing Security+
 - IPv4 and IPv6
 - DNS
 - DHCP
-- Wi-Fi and wireless networking
-- Network troubleshooting commands
-- Networking and Network+ concepts
-- Help desk ticket documentation
+- Wi-Fi
+- Ethernet
+- `ipconfig`
+- `ping`
+- `tracert`
+- `nslookup`
+- `arp`
+- `netstat`
 
-## Repository Structure
+## Support Notes
+
+### [Windows Troubleshooting Checklist](notes/windows-troubleshooting-checklist.md)
+
+Documents a structured Windows 10/11 troubleshooting process for common desktop support issues.
+
+### [Command Prompt Tools](notes/command-prompt-tools.md)
+
+Documents common Windows command-line tools used for connectivity testing, DNS troubleshooting, system checks, and support documentation.
+
+### [PowerShell Basics](notes/powershell-basics.md)
+
+Documents PowerShell commands for system information, processes, services, networking, and basic troubleshooting.
+
+### [Microsoft 365 Support Concepts](notes/microsoft-365-support-concepts.md)
+
+Documents Microsoft 365 support concepts involving Outlook, Teams, OneDrive, SharePoint, account access, permissions, and common user issues.
+
+### [Account Access Troubleshooting](notes/account-access-troubleshooting.md)
+
+Documents common login, password, MFA, account lockout, group membership, and permission troubleshooting steps.
+
+### [Printer Troubleshooting](notes/printer-troubleshooting.md)
+
+Documents common printer issues involving offline printers, print queues, network printers, drivers, and the Windows Print Spooler service.
+
+### [Windows Network Troubleshooting](notes/windows-network-troubleshooting.md)
+
+Documents Windows connectivity troubleshooting using tools and commands such as `ipconfig`, `ping`, `nslookup`, `tracert`, `ipconfig /release`, `ipconfig /renew`, and `ipconfig /flushdns`.
+
+### [Network Cabling Basics](notes/network-cabling-basics.md)
+
+Documents Ethernet cabling concepts relevant to IT support, including structured cabling, cable categories, patch panels, patch cords, T568A/T568B standards, common tools, and cabling problems.
+
+### [Slow Computer Troubleshooting](notes/slow-computer-troubleshooting.md)
+
+Documents a Windows troubleshooting process for slow computer performance, including Task Manager, startup applications, disk space, Windows updates, malware checks, and escalation criteria.
+
+### [DNS Troubleshooting](notes/dns-troubleshooting.md)
+
+Documents DNS troubleshooting steps including IP connectivity testing, `nslookup`, DNS cache flushing, and identifying name-resolution problems.
+
+### [DHCP Troubleshooting](notes/dhcp-troubleshooting.md)
+
+Documents DHCP troubleshooting steps including checking IP configuration, identifying APIPA addresses, and using `ipconfig /release` and `ipconfig /renew`.
+
+### [Wi-Fi Troubleshooting](notes/wi-fi-troubleshooting.md)
+
+Documents Wi-Fi troubleshooting involving wireless status, SSIDs, signal strength, IP configuration, DNS, DHCP, wireless adapter issues, and escalation criteria.
+
+### [Ticket Documentation Examples](notes/ticket-documentation-examples.md)
+
+Documents examples of clear help desk ticket notes, troubleshooting steps, resolutions, escalation information, and user-facing technical documentation.
+
+## Ticket Examples
+
+### [Network Connectivity Ticket Example](tickets/network-connectivity-ticket-example.md)
+
+Provides a ticket-style example for troubleshooting a user who cannot connect to the network.
+
+### [Microsoft 365 Login Ticket Example](tickets/microsoft-365-login-ticket-example.md)
+
+Provides a ticket-style example for troubleshooting a user who cannot sign in to Microsoft 365 services.
+
+### [Printer Offline Ticket Example](tickets/printer-offline-ticket-example.md)
+
+Provides a ticket-style example for troubleshooting a printer that appears offline.
+
+### [Slow Computer Ticket Example](tickets/slow-computer-ticket-example.md)
+
+Provides a ticket-style example for a user reporting slow Windows computer performance.
+
+### [DNS Troubleshooting Ticket Example](tickets/dns-troubleshooting-ticket-example.md)
+
+Provides a ticket-style example for a user who has network connectivity but cannot access websites or resources by hostname.
+
+### [DHCP Troubleshooting Ticket Example](tickets/dhcp-troubleshooting-ticket-example.md)
+
+Provides a ticket-style example for a workstation that did not receive a valid IP address from DHCP.
+
+### [Wi-Fi Troubleshooting Ticket Example](tickets/wi-fi-troubleshooting-ticket-example.md)
+
+Provides a ticket-style example for a user who cannot connect to Wi-Fi or experiences intermittent wireless connectivity.
+
+## Troubleshooting Approach
+
+When working through an IT support issue, I use a structured process:
+
+1. Identify the user's problem and gather symptoms.
+2. Determine the scope and impact.
+3. Ask about recent changes.
+4. Check simple and likely causes first.
+5. Establish a theory of probable cause.
+6. Test the theory before making unnecessary changes.
+7. Apply an appropriate solution.
+8. Verify that the original issue is resolved.
+9. Confirm that no additional problems were introduced.
+10. Document the issue, troubleshooting steps, resolution, and escalation details when necessary.
+
+This approach helps keep troubleshooting organized, repeatable, and easier for another technician to follow.
+
+## Ticket Documentation
+
+Good ticket documentation should clearly explain:
+
+- What the user reported
+- Who or what was affected
+- Important symptoms
+- Troubleshooting performed
+- Commands or tools used
+- Changes made
+- Root cause when known
+- Final resolution
+- Verification performed
+- Escalation information when applicable
+
+The goal is for another technician to understand what happened without needing to repeat the entire troubleshooting process.
+
+## Current Repository Structure
 
 ```text
 it-support-labs/
 ├── README.md
 ├── notes/
-│   ├── windows-troubleshooting-checklist.md
-│   ├── command-prompt-tools.md
-│   ├── powershell-basics.md
-│   ├── microsoft-365-support-concepts.md
 │   ├── account-access-troubleshooting.md
-│   ├── printer-troubleshooting.md
-│   ├── windows-network-troubleshooting.md
-│   ├── ticket-documentation-examples.md
-│   ├── network-cabling-basics.md
-│   ├── slow-computer-troubleshooting.md
-│   ├── dns-troubleshooting.md
+│   ├── command-prompt-tools.md
 │   ├── dhcp-troubleshooting.md
-│   └── wi-fi-troubleshooting.md
+│   ├── dns-troubleshooting.md
+│   ├── microsoft-365-support-concepts.md
+│   ├── network-cabling-basics.md
+│   ├── powershell-basics.md
+│   ├── printer-troubleshooting.md
+│   ├── slow-computer-troubleshooting.md
+│   ├── ticket-documentation-examples.md
+│   ├── wi-fi-troubleshooting.md
+│   ├── windows-network-troubleshooting.md
+│   └── windows-troubleshooting-checklist.md
 └── tickets/
-    ├── network-connectivity-ticket-example.md
+    ├── dhcp-troubleshooting-ticket-example.md
+    ├── dns-troubleshooting-ticket-example.md
     ├── microsoft-365-login-ticket-example.md
+    ├── network-connectivity-ticket-example.md
     ├── printer-offline-ticket-example.md
     ├── slow-computer-ticket-example.md
-    ├── dns-troubleshooting-ticket-example.md
-    ├── dhcp-troubleshooting-ticket-example.md
     └── wi-fi-troubleshooting-ticket-example.md
 ```
 
-## Notes Included
+## Areas to Continue Building
 
-### Windows Troubleshooting Checklist
+As I continue practicing IT support, I plan to expand this repository with additional work in areas such as:
 
-Documents a Windows 10/11 troubleshooting process for common desktop support issues.
-
-### Command Prompt Tools
-
-Documents common Windows command-line tools used for network troubleshooting, DNS testing, system checks, and support documentation.
-
-### PowerShell Basics
-
-Documents PowerShell commands for system information, processes, services, networking, and troubleshooting.
-
-### Microsoft 365 Support Concepts
-
-Documents Microsoft 365 support concepts involving Outlook, Teams, OneDrive, SharePoint, account access, permissions, and common user issues.
-
-### Account Access Troubleshooting
-
-Documents common login, password, MFA, account lockout, group membership, and permission troubleshooting steps.
-
-### Printer Troubleshooting
-
-Documents common printer issues involving print queues, offline printers, network printers, drivers, and the Print Spooler service.
-
-### Windows Network Troubleshooting
-
-Documents Windows network troubleshooting using tools and commands such as `ipconfig`, `ping`, `nslookup`, `tracert`, `ipconfig /release`, `ipconfig /renew`, and `ipconfig /flushdns`.
-
-### Ticket Documentation Examples
-
-Documents ticket-style support scenarios involving account access, printers, networking, DNS, DHCP, Wi-Fi, and Microsoft 365.
-
-### Network Cabling Basics
-
-Documents Ethernet cabling concepts, structured cabling, cable categories, patch panels, patch cords, T568A/T568B standards, common tools, and cabling issues.
-
-### Slow Computer Troubleshooting
-
-Documents a Windows troubleshooting process for slow computer performance, including Task Manager, startup applications, disk space, Windows updates, malware checks, and escalation criteria.
-
-### DNS Troubleshooting
-
-Documents DNS troubleshooting steps including IP connectivity testing, `nslookup`, DNS cache flushing, and identifying name-resolution issues.
-
-### DHCP Troubleshooting
-
-Documents DHCP troubleshooting steps including checking IP configuration, identifying APIPA addresses, and using `ipconfig /release` and `ipconfig /renew`.
-
-### Wi-Fi Troubleshooting
-
-Documents Wi-Fi troubleshooting involving wireless status, SSID, signal strength, IP configuration, DNS, DHCP, wireless adapter issues, and escalation criteria.
-
-## Ticket Examples Included
-
-### Network Connectivity Ticket Example
-
-Provides a ticket-style example for troubleshooting a user who cannot connect to the network.
-
-### Microsoft 365 Login Ticket Example
-
-Provides a ticket-style example for a user who cannot sign in to Microsoft 365 services.
-
-### Printer Offline Ticket Example
-
-Provides a ticket-style example for troubleshooting a printer that appears offline.
-
-### Slow Computer Ticket Example
-
-Provides a ticket-style example for a user reporting slow Windows computer performance.
-
-### DNS Troubleshooting Ticket Example
-
-Provides a ticket-style example for a user who has network connectivity but cannot access websites by name.
-
-### DHCP Troubleshooting Ticket Example
-
-Provides a ticket-style example for a workstation that did not receive a valid IP address from DHCP.
-
-### Wi-Fi Troubleshooting Ticket Example
-
-Provides a ticket-style example for a user who cannot connect to Wi-Fi or experiences intermittent wireless connectivity.
-
-## Planned Additions
-
-I plan to continue expanding this repository with labs and documentation related to:
-
-- VPN troubleshooting
 - Windows Update troubleshooting
-- Blue screen and crash troubleshooting
+- Windows startup and crash troubleshooting
+- Storage and drive troubleshooting
+- Software installation and removal issues
+- Device and driver troubleshooting
 - Outlook troubleshooting
 - OneDrive synchronization troubleshooting
-- Teams audio and video troubleshooting
-- Printer driver troubleshooting
-- Print Spooler troubleshooting
-- Shared drive access troubleshooting
-- Software installation troubleshooting
-- Phishing email investigation scenarios
+- Microsoft Teams audio and video troubleshooting
+- Print Spooler and printer driver troubleshooting
+- Shared folder and file-access troubleshooting
+- Additional account and permission scenarios
 - Ticket escalation examples
 - Additional help desk and desktop support scenarios
-- Networking labs based on my Network+ coursework
-- VLAN and network segmentation exercises
-- Routing and switching concepts
-- IPv4 and IPv6 troubleshooting
-- Network monitoring and packet analysis
-- Wireshark exercises
-- Network security concepts
-- Identity and access management scenarios
-- Security-focused troubleshooting and documentation
 
-## Current Goal
+New documentation will be added as I study and practice these topics.
 
-My goal is to continue expanding this repository with practical IT support, networking, systems, and cybersecurity labs that demonstrate troubleshooting, documentation, and technical problem-solving.
+## Current Focus
 
-Having completed CompTIA Network+, I am continuing to build on that networking foundation while studying for CompTIA Security+ and incorporating more security-focused concepts and scenarios into my projects.
+My goal for this repository is to continue strengthening practical IT support skills involving Windows, Microsoft 365, user support, troubleshooting, ticket documentation, and desktop support workflows.
 
-I also plan to continue developing this repository as my skills expand into systems, infrastructure, cybersecurity, and other areas of technology.
+I want the repository to demonstrate not only technical knowledge, but also the ability to approach problems methodically, communicate clearly, document work, and know when an issue should be escalated.
 
-## Safety Note
+## Certifications
 
-I avoid uploading private or sensitive information such as passwords, MFA codes, personal files, public IP addresses, usernames, workplace information, internal company data, or screenshots containing confidential details.
+- CompTIA A+
+- CompTIA Network+
+- CompTIA Tech+
+
+## Safety & Privacy
+
+All examples in this repository are intended for educational practice, personal lab environments, and authorized systems.
+
+I avoid uploading sensitive or confidential information such as passwords, MFA codes, personal files, private company information, internal system details, or screenshots containing confidential data.
