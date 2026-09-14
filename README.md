@@ -188,6 +188,10 @@ Documents examples of clear help desk ticket notes, troubleshooting steps, resol
 
 ## Ticket Examples
 
+### [Windows Startup & BSOD Ticket Example](tickets/windows-startup-bsod-ticket-example.md)
+
+Practice help desk ticket documenting a Windows startup and BSOD issue involving Safe Mode, driver rollback, Device Manager, Reliability Monitor, Event Viewer, recovery options, verification, data protection, and escalation.
+
 ### [Microsoft Teams Audio & Video Ticket Example](tickets/microsoft-teams-audio-video-ticket-example.md)
 
 Practice help desk ticket documenting a Microsoft Teams microphone and camera issue involving device selection, Windows privacy permissions, hardware isolation, application troubleshooting, verification, and escalation.
@@ -309,6 +313,7 @@ it-support-labs/
     ├── shared-folder-access-ticket-example.md
     ├── slow-computer-ticket-example.md
     ├── wi-fi-troubleshooting-ticket-example.md
+    ├── windows-startup-bsod-ticket-example.md
     └── windows-update-ticket-example.md
 ```
 
