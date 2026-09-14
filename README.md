@@ -216,6 +216,10 @@ Provides a ticket-style example for a workstation that did not receive a valid I
 
 Provides a ticket-style example for a user who cannot connect to Wi-Fi or experiences intermittent wireless connectivity.
 
+### [Windows Update Ticket Example](tickets/windows-update-ticket-example.md)
+
+Practice help desk ticket documenting a Windows Update failure, service checks, SFC and DISM repairs, restart, verification, and final resolution.
+
 ## Troubleshooting Approach
 
 When working through an IT support issue, I use a structured process:
@@ -289,7 +293,8 @@ it-support-labs/
     ├── network-connectivity-ticket-example.md
     ├── printer-offline-ticket-example.md
     ├── slow-computer-ticket-example.md
-    └── wi-fi-troubleshooting-ticket-example.md
+    ├── wi-fi-troubleshooting-ticket-example.md
+    └── windows-update-ticket-example.md
 ```
 
 ## Current Focus
