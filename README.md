@@ -224,6 +224,10 @@ Practice help desk ticket documenting a Windows Update failure, service checks, 
 
 Practice help desk ticket documenting a shared-folder access issue involving UNC paths, SMB connectivity, DNS verification, group membership, authorization, least privilege, verification, and escalation.
 
+### [Outlook Troubleshooting Ticket Example](tickets/outlook-troubleshooting-ticket-example.md)
+
+Practice help desk ticket documenting an Outlook desktop startup issue involving Microsoft 365 account verification, Outlook on the web testing, Safe Mode, add-in troubleshooting, application isolation, verification, and escalation.
+
 ## Troubleshooting Approach
 
 When working through an IT support issue, I use a structured process:
@@ -295,6 +299,7 @@ it-support-labs/
     ├── dns-troubleshooting-ticket-example.md
     ├── microsoft-365-login-ticket-example.md
     ├── network-connectivity-ticket-example.md
+    ├── outlook-troubleshooting-ticket-example.md
     ├── printer-offline-ticket-example.md
     ├── shared-folder-access-ticket-example.md
     ├── slow-computer-ticket-example.md
