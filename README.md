@@ -86,6 +86,10 @@ Networking is included where it directly supports end-user troubleshooting. More
 
 Documents a structured Windows 10/11 troubleshooting process for common desktop support issues.
 
+### [Windows Update Troubleshooting](notes/windows-update-troubleshooting.md)
+
+Documents Windows 10/11 update troubleshooting involving connectivity, disk space, Windows Update and BITS services, update history, error codes, Event Viewer, SFC, DISM, update components, verification, and escalation.
+
 ### [Command Prompt Tools](notes/command-prompt-tools.md)
 
 Documents common Windows command-line tools used for connectivity testing, DNS troubleshooting, system checks, and support documentation.
@@ -216,7 +220,8 @@ it-support-labs/
 │   ├── ticket-documentation-examples.md
 │   ├── wi-fi-troubleshooting.md
 │   ├── windows-network-troubleshooting.md
-│   └── windows-troubleshooting-checklist.md
+│   ├── windows-troubleshooting-checklist.md
+│   └── windows-update-troubleshooting.md
 └── tickets/
     ├── dhcp-troubleshooting-ticket-example.md
     ├── dns-troubleshooting-ticket-example.md
@@ -231,7 +236,6 @@ it-support-labs/
 
 As I continue practicing IT support, I plan to expand this repository with additional work in areas such as:
 
-- Windows Update troubleshooting
 - Windows startup and crash troubleshooting
 - Storage and drive troubleshooting
 - Software installation and removal issues
