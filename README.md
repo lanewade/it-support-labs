@@ -106,6 +106,10 @@ Documents Windows software troubleshooting involving application installation, r
 
 Documents Windows device and driver troubleshooting involving Device Manager, hardware detection, driver installation and rollback, USB devices, audio, displays, network adapters, Bluetooth, webcams, peripherals, Event Viewer, Reliability Monitor, hardware isolation, and escalation.
 
+### [Outlook Troubleshooting](notes/outlook-troubleshooting.md)
+
+Documents Microsoft Outlook troubleshooting involving connectivity, sign-in, MFA, Outlook profiles, cached data, OST/PST files, add-ins, shared mailboxes, search, mailbox synchronization, Office repair, Event Viewer, Reliability Monitor, licensing, and escalation.
+
 ### [Command Prompt Tools](notes/command-prompt-tools.md)
 
 Documents common Windows command-line tools used for connectivity testing, DNS troubleshooting, system checks, and support documentation.
@@ -231,6 +235,7 @@ it-support-labs/
 │   ├── dns-troubleshooting.md
 │   ├── microsoft-365-support-concepts.md
 │   ├── network-cabling-basics.md
+│   ├── outlook-troubleshooting.md
 │   ├── powershell-basics.md
 │   ├── printer-troubleshooting.md
 │   ├── slow-computer-troubleshooting.md
@@ -256,7 +261,6 @@ it-support-labs/
 
 As I continue practicing IT support, I plan to expand this repository with additional work in areas such as:
 
-- Outlook troubleshooting
 - OneDrive synchronization troubleshooting
 - Microsoft Teams audio and video troubleshooting
 - Print Spooler and printer driver troubleshooting
