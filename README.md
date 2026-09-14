@@ -94,6 +94,10 @@ Documents Windows 10/11 update troubleshooting involving connectivity, disk spac
 
 Documents Windows 10/11 startup and crash troubleshooting involving WinRE, Startup Repair, Safe Mode, BSOD stop codes, drivers, Device Manager, Event Viewer, Reliability Monitor, SFC, DISM, storage and memory diagnostics, BitLocker considerations, recovery options, and escalation.
 
+### [Storage & Drive Troubleshooting](notes/storage-drive-troubleshooting.md)
+
+Documents Windows storage troubleshooting involving SSDs, HDDs, Disk Management, drive detection, partitions, drive letters, file systems, SMART health, CHKDSK, Event Viewer, disk performance, BitLocker considerations, data protection, and drive-failure escalation.
+
 ### [Command Prompt Tools](notes/command-prompt-tools.md)
 
 Documents common Windows command-line tools used for connectivity testing, DNS troubleshooting, system checks, and support documentation.
@@ -221,6 +225,7 @@ it-support-labs/
 │   ├── powershell-basics.md
 │   ├── printer-troubleshooting.md
 │   ├── slow-computer-troubleshooting.md
+│   ├── storage-drive-troubleshooting.md
 │   ├── ticket-documentation-examples.md
 │   ├── wi-fi-troubleshooting.md
 │   ├── windows-network-troubleshooting.md
@@ -241,7 +246,6 @@ it-support-labs/
 
 As I continue practicing IT support, I plan to expand this repository with additional work in areas such as:
 
-- Storage and drive troubleshooting
 - Software installation and removal issues
 - Device and driver troubleshooting
 - Outlook troubleshooting
