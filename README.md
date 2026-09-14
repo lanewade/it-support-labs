@@ -114,6 +114,10 @@ Documents Microsoft Outlook troubleshooting involving connectivity, sign-in, MFA
 
 Documents OneDrive troubleshooting involving sign-in, synchronization status, Files On-Demand, local and cloud storage limits, file naming and path issues, permissions, sync conflicts, shared files, account re-linking, reset procedures, Microsoft 365 service issues, and escalation.
 
+### [Microsoft Teams Audio & Video Troubleshooting](notes/microsoft-teams-audio-video-troubleshooting.md)
+
+Documents Microsoft Teams troubleshooting involving microphones, speakers, cameras, Bluetooth headsets, device selection, Windows privacy permissions, drivers, docking stations, network performance, VPNs, Teams web testing, Microsoft 365 service issues, and escalation.
+
 ### [Command Prompt Tools](notes/command-prompt-tools.md)
 
 Documents common Windows command-line tools used for connectivity testing, DNS troubleshooting, system checks, and support documentation.
@@ -238,6 +242,7 @@ it-support-labs/
 │   ├── dhcp-troubleshooting.md
 │   ├── dns-troubleshooting.md
 │   ├── microsoft-365-support-concepts.md
+│   ├── microsoft-teams-audio-video-troubleshooting.md
 │   ├── network-cabling-basics.md
 │   ├── onedrive-sync-troubleshooting.md
 │   ├── outlook-troubleshooting.md
@@ -266,7 +271,6 @@ it-support-labs/
 
 As I continue practicing IT support, I plan to expand this repository with additional work in areas such as:
 
-- Microsoft Teams audio and video troubleshooting
 - Print Spooler and printer driver troubleshooting
 - Shared folder and file-access troubleshooting
 - Additional account and permission scenarios
