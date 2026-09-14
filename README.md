@@ -102,6 +102,10 @@ Documents Windows storage troubleshooting involving SSDs, HDDs, Disk Management,
 
 Documents Windows software troubleshooting involving application installation, removal, permissions, compatibility, dependencies, Windows Installer, EXE/MSI packages, security software, licensing, repair/reinstall workflows, Event Viewer, Reliability Monitor, and escalation.
 
+### [Device & Driver Troubleshooting](notes/device-driver-troubleshooting.md)
+
+Documents Windows device and driver troubleshooting involving Device Manager, hardware detection, driver installation and rollback, USB devices, audio, displays, network adapters, Bluetooth, webcams, peripherals, Event Viewer, Reliability Monitor, hardware isolation, and escalation.
+
 ### [Command Prompt Tools](notes/command-prompt-tools.md)
 
 Documents common Windows command-line tools used for connectivity testing, DNS troubleshooting, system checks, and support documentation.
@@ -222,6 +226,7 @@ it-support-labs/
 ├── notes/
 │   ├── account-access-troubleshooting.md
 │   ├── command-prompt-tools.md
+│   ├── device-driver-troubleshooting.md
 │   ├── dhcp-troubleshooting.md
 │   ├── dns-troubleshooting.md
 │   ├── microsoft-365-support-concepts.md
@@ -251,7 +256,6 @@ it-support-labs/
 
 As I continue practicing IT support, I plan to expand this repository with additional work in areas such as:
 
-- Device and driver troubleshooting
 - Outlook troubleshooting
 - OneDrive synchronization troubleshooting
 - Microsoft Teams audio and video troubleshooting
