@@ -126,6 +126,10 @@ Documents Windows printing troubleshooting involving print queues, the Print Spo
 
 Documents Windows shared-folder troubleshooting involving UNC paths, mapped drives, SMB, share and NTFS permissions, group membership, Credential Manager, VPN access, DNS, file locking, access requests, least privilege, and escalation.
 
+### [Account & Permission Scenarios](notes/account-permission-scenarios.md)
+
+Documents account and access troubleshooting involving password resets, lockouts, MFA, authentication vs authorization, group membership, least privilege, onboarding, role changes, offboarding, licensing, administrator access requests, and permission escalation.
+
 ### [Command Prompt Tools](notes/command-prompt-tools.md)
 
 Documents common Windows command-line tools used for connectivity testing, DNS troubleshooting, system checks, and support documentation.
@@ -245,6 +249,7 @@ it-support-labs/
 ├── README.md
 ├── notes/
 │   ├── account-access-troubleshooting.md
+│   ├── account-permission-scenarios.md
 │   ├── command-prompt-tools.md
 │   ├── device-driver-troubleshooting.md
 │   ├── dhcp-troubleshooting.md
@@ -281,7 +286,6 @@ it-support-labs/
 
 As I continue practicing IT support, I plan to expand this repository with additional work in areas such as:
 
-- Additional account and permission scenarios
 - Ticket escalation examples
 - Additional help desk and desktop support scenarios
 
