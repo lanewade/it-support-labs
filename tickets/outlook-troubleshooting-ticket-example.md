@@ -1,6 +1,4 @@
-# Outlook Troubleshooting Ticket Example
-
-This is a practice help desk ticket documenting a Microsoft Outlook desktop issue involving sign-in, connectivity, Outlook Safe Mode, add-ins, application repair, and verification.
+# Outlook Troubleshooting Ticket
 
 ## Ticket Summary
 
