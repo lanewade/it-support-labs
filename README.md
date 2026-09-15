@@ -188,6 +188,10 @@ Documents examples of clear help desk ticket notes, troubleshooting steps, resol
 
 ## Tickets
 
+### [Software Installation Ticket Example](tickets/software-installation-ticket-example.md)
+
+Help desk ticket documenting a Windows software installation issue involving application approval, system requirements, administrative elevation, Windows Installer, application repair, uninstall/reinstall, verification, and escalation.
+
 ### [OneDrive Sync Ticket Example](tickets/onedrive-sync-ticket-example.md)
 
 Help desk ticket documenting a OneDrive synchronization issue involving Microsoft 365 account verification, local vs cloud file comparison, file-path troubleshooting, storage checks, OneDrive reset, data protection, verification, and escalation.
@@ -317,6 +321,7 @@ it-support-labs/
     ├── printer-offline-ticket-example.md
     ├── shared-folder-access-ticket-example.md
     ├── slow-computer-ticket-example.md
+    ├── software-installation-ticket-example.md
     ├── wi-fi-troubleshooting-ticket-example.md
     ├── windows-startup-bsod-ticket-example.md
     └── windows-update-ticket-example.md
