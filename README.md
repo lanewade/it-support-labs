@@ -186,55 +186,59 @@ Documents Wi-Fi troubleshooting involving wireless status, SSIDs, signal strengt
 
 Documents examples of clear help desk ticket notes, troubleshooting steps, resolutions, escalation information, and user-facing technical documentation.
 
-## Ticket Examples
+## Tickets
+
+### [OneDrive Sync Ticket Example](tickets/onedrive-sync-ticket-example.md)
+
+Help desk ticket documenting a OneDrive synchronization issue involving Microsoft 365 account verification, local vs cloud file comparison, file-path troubleshooting, storage checks, OneDrive reset, data protection, verification, and escalation.
 
 ### [Windows Startup & BSOD Ticket Example](tickets/windows-startup-bsod-ticket-example.md)
 
-Practice help desk ticket documenting a Windows startup and BSOD issue involving Safe Mode, driver rollback, Device Manager, Reliability Monitor, Event Viewer, recovery options, verification, data protection, and escalation.
+Help desk ticket documenting a Windows startup and BSOD issue involving Safe Mode, driver rollback, Device Manager, Reliability Monitor, Event Viewer, recovery options, verification, data protection, and escalation.
 
 ### [Microsoft Teams Audio & Video Ticket Example](tickets/microsoft-teams-audio-video-ticket-example.md)
 
-Practice help desk ticket documenting a Microsoft Teams microphone and camera issue involving device selection, Windows privacy permissions, hardware isolation, application troubleshooting, verification, and escalation.
+Help desk ticket documenting a Microsoft Teams microphone and camera issue involving device selection, Windows privacy permissions, hardware isolation, application troubleshooting, verification, and escalation.
 
 ### [Network Connectivity Ticket Example](tickets/network-connectivity-ticket-example.md)
 
-Provides a ticket-style example for troubleshooting a user who cannot connect to the network.
+Provides a ticket for troubleshooting a user who cannot connect to the network.
 
 ### [Microsoft 365 Login Ticket Example](tickets/microsoft-365-login-ticket-example.md)
 
-Provides a ticket-style example for troubleshooting a user who cannot sign in to Microsoft 365 services.
+Provides a ticket for troubleshooting a user who cannot sign in to Microsoft 365 services.
 
 ### [Printer Offline Ticket Example](tickets/printer-offline-ticket-example.md)
 
-Provides a ticket-style example for troubleshooting a printer that appears offline.
+Provides a ticket for troubleshooting a printer that appears offline.
 
 ### [Slow Computer Ticket Example](tickets/slow-computer-ticket-example.md)
 
-Provides a ticket-style example for a user reporting slow Windows computer performance.
+Provides a ticket for a user reporting slow Windows computer performance.
 
 ### [DNS Troubleshooting Ticket Example](tickets/dns-troubleshooting-ticket-example.md)
 
-Provides a ticket-style example for a user who has network connectivity but cannot access websites or resources by hostname.
+Provides a ticket for a user who has network connectivity but cannot access websites or resources by hostname.
 
 ### [DHCP Troubleshooting Ticket Example](tickets/dhcp-troubleshooting-ticket-example.md)
 
-Provides a ticket-style example for a workstation that did not receive a valid IP address from DHCP.
+Provides a ticket for a workstation that did not receive a valid IP address from DHCP.
 
 ### [Wi-Fi Troubleshooting Ticket Example](tickets/wi-fi-troubleshooting-ticket-example.md)
 
-Provides a ticket-style example for a user who cannot connect to Wi-Fi or experiences intermittent wireless connectivity.
+Provides a ticket for a user who cannot connect to Wi-Fi or experiences intermittent wireless connectivity.
 
 ### [Windows Update Ticket Example](tickets/windows-update-ticket-example.md)
 
-Practice help desk ticket documenting a Windows Update failure, service checks, SFC and DISM repairs, restart, verification, and final resolution.
+Help desk ticket documenting a Windows Update failure, service checks, SFC and DISM repairs, restart, verification, and final resolution.
 
 ### [Shared Folder Access Ticket Example](tickets/shared-folder-access-ticket-example.md)
 
-Practice help desk ticket documenting a shared-folder access issue involving UNC paths, SMB connectivity, DNS verification, group membership, authorization, least privilege, verification, and escalation.
+Help desk ticket documenting a shared-folder access issue involving UNC paths, SMB connectivity, DNS verification, group membership, authorization, least privilege, verification, and escalation.
 
 ### [Outlook Troubleshooting Ticket Example](tickets/outlook-troubleshooting-ticket-example.md)
 
-Practice help desk ticket documenting an Outlook desktop startup issue involving Microsoft 365 account verification, Outlook on the web testing, Safe Mode, add-in troubleshooting, application isolation, verification, and escalation.
+Help desk ticket documenting an Outlook desktop startup issue involving Microsoft 365 account verification, Outlook on the web testing, Safe Mode, add-in troubleshooting, application isolation, verification, and escalation.
 
 ## Troubleshooting Approach
 
@@ -308,6 +312,7 @@ it-support-labs/
     ├── microsoft-365-login-ticket-example.md
     ├── microsoft-teams-audio-video-ticket-example.md
     ├── network-connectivity-ticket-example.md
+    ├── onedrive-sync-ticket-example.md
     ├── outlook-troubleshooting-ticket-example.md
     ├── printer-offline-ticket-example.md
     ├── shared-folder-access-ticket-example.md
